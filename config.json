@@ -1,0 +1,23 @@
+{
+    "client": {
+        "token": "redacted",
+        "public_key": "redacted",
+        "secret": "redacted"
+    },
+    "database": {
+        "type": "redacted",
+        "host": "redacted",
+        "username": "redacted",
+        "password": "redacted",
+        "name": "redacted",
+        "cluster": "redacted"
+    },
+    "panel": {
+        "url": "https://panel.dijxcloud.com",
+        "token": "redacted"
+    },
+    "backend": {
+        "access": ["623534693295325196", "762931157498331157"],
+        "notify": ["623534693295325196", "762931157498331157"]
+    }
+}
