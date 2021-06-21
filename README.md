@@ -1,7 +1,7 @@
 ![](https://media.discordapp.net/attachments/831205532420800543/832389821527490630/favicon.png?width=64&height=64)
-# Dijx Bot - [DijxCloud Platform](https://dijxcloud.com)
+# Dijx Bot
 
-### This was is made for the DijxCloud Platform Discord Server and has now been made open-source.
+### This bot was made for the DijxCloud Platform Discord Server and has now been made open-source.
 
 ### If you need help or support please contact Liam L / Fallen on discord.
 
