@@ -14,4 +14,4 @@ This bot includes:
 - Logging
 - Utility
 
-##### Copyright © 2020-2021 DijxCloud Platform, All rights reserved.
+##### Copyright © 2020-2021 DijxCloud Platform. All rights reserved.
